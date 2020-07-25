@@ -6,3 +6,6 @@ It detects fringes' positions in a CCD image and calculates the shift between tw
 ![GitHub Logo](/ccd_image_compressed.png)
 
 # OUTPUT PLOT
+
+![GitHub Logo](/output_plot.png)
+
